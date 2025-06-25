@@ -60,3 +60,8 @@ Or use it in Jupyter Notebook cell-by-cell for better understanding and customiz
 You’ll see webcam footage with bounding boxes and hear detected object names spoken out loud like:
 
 “person... dog... car...”
+
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).
